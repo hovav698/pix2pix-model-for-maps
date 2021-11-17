@@ -43,6 +43,8 @@ The Discriminator loss will also be combined from two parts - the first part is 
 **Data Preperation**
 
 The dataset contains combined images of the sattelite images and it's correconponded street maps images. We will split this images to two images - the input images (the sattelite image) and target images (the street maps images). We will load the images to a pytorch DataLoader to make the training more efficient. This is how random input and target image looks like:
+<br>
+
 <img width="600" alt="RTST" src="https://user-images.githubusercontent.com/71300410/142194108-21532276-81a2-4572-824b-3f0d96bb5b26.png">
 
 
