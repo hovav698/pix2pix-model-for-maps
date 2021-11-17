@@ -62,6 +62,8 @@ Here are some of the results:
 
 
 **Summary**
+<br>
+
 The model worked well and was able to generate images that are very similar to target images. It was able to generalize it very well to the testing set as well.
 
 
